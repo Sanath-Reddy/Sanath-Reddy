@@ -1,9 +1,9 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Sanath Reddy !
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Sanath Reddy!
 ## Welcome to my Github Profile 
 
 ### About me 
 
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRrbTlwbnVlenp3eHV0aWR6ZmhybW10MGkyYWY4Mnl5bmo1NHF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="400">
 
 ```js
 document.write("Hello World");
