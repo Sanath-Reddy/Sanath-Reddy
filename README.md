@@ -51,7 +51,19 @@
 ---
 
 # Recent Activity :zap:
+
 <!--START_SECTION:activity-->
+<!-- Generated from Local Populate Script -->
+<ul>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>🚀 Created branch <code>main</code> in <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Darshiljpatel/TOKEN_FACTORY">Darshiljpatel/TOKEN_FACTORY</a></li>
+</ul>
 <!--END_SECTION:activity-->
 
 ---
@@ -61,7 +73,7 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sanath-reddy)](https://open.spotify.com/user/sanath-reddy)
 -->
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
 ### Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanathbelagavi/)
