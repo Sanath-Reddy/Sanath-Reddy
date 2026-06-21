@@ -48,26 +48,18 @@
 </p>
 
 
-___
-
-### Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-____
-____
+---
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-___
+---
+
+<!--
+### 🎧 Listening on Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sanath-reddy)](https://open.spotify.com/user/sanath-reddy)
+-->
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
@@ -77,8 +69,6 @@ ___
 
 
 ----
-
-![Profile views](https://profile-counter.glitch.me/Sanath-Reddy/count.svg)
 
 
 ```zsh
