@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRrbTlwbnVlenp3eHV0aWR6ZmhybW10MGkyYWY4Mnl5bmo1NHF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="400">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=150&size=18&width=600&height=550&duration=500&multiline=true&separator=%3C&lines=document.write%28%22Hello%20World%22%29%3B%3CDeveloper%20dev%20%3D%20new%20Developer%28Sanath%20Reddy%29%3B%3Cconst%20Sanath%20%3D%20%7B%3C%20%20%20%20pronouns%3A%20%22he%22%20%7C%20%22him%22%2C%3C%20%20%20%20status%3A%20Student%2C%3C%20%20%20%20organization%3A%20rvce%2C%3C%20%20%20%20languages%3A%20%7B%3C%20%20%20%20%20%20%20%20webdev%3A%20%5BHTML%2C%20CSS%2C%20Javascript%5D%2C%3C%20%20%20%20%20%20%20%20general-purpose%3A%20%5BC%2B%2B%2C%20C%2C%20Python%5D%3C%20%20%20%20%7D%2C%3C%20%20%20%20editors%3A%20%5BVS%20Code%2C%20PyCharm%5D%2C%3C%20%20%20%20learning%3A%20%5BDSA%2C%20IoT%2C%20Machine_Learning%5D%2C%3C%20%20%20%20contact%3A%20sanathbelgaum%40gmail.com%3C%7D%3B%3C%3Cwhile%20%28alive%29%20%7B%3C%20%20%20%20eat%28%29%3B%3C%20%20%20%20code%28%29%3B%3C%20%20%20%20sleep%28%29%3B%3C%7D)](https://git.io/typing-svg)
+![Code Typing Animation](./developer.svg)
 
 <details>
 <summary>💻 View Plain JavaScript Code</summary>
