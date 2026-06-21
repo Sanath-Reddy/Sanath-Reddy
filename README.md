@@ -3,36 +3,16 @@
 
 ### About me 
 
-<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRrbTlwbnVlenp3eHV0aWR6ZmhybW10MGkyYWY4Mnl5bmo1NHF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="400">
-
-![Code Typing Animation](./developer.svg)
-
-<details>
-<summary>💻 View Plain JavaScript Code</summary>
-
-```js
-document.write("Hello World");
-Developer dev = new Developer(Sanath Reddy);
-const Sanath = {
-    pronouns: "he" | "him",
-    status: Student,
-    organization: rvce,
-    languages: {
-        webdev: [HTML, CSS, Javascript],
-        general-purpose: [C++, C, Python]
-    },
-    editors: [VS Code, PyCharm],
-    learning: [DSA, IoT, Machine_Learning],
-    contact: sanathbelgaum@gmail.com
-};
-
-while (alive) {
-    eat();
-    code();
-    sleep();
-}
-```
-</details>
+<table>
+  <tr>
+    <td valign="top" width="58%">
+      <img src="./developer.svg" width="100%" alt="Code Typing Animation">
+    </td>
+    <td valign="top" width="42%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRrbTlwbnVlenp3eHV0aWR6ZmhybW10MGkyYWY4Mnl5bmo1NHF4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" width="100%" alt="Green Numbers Matrix GIF">
+    </td>
+  </tr>
+</table>
 ---
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
