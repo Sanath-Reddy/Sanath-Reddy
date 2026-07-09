@@ -53,8 +53,8 @@
 # Recent Activity :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Sanath-Reddy/smart-helmet-iot/pull/1) in [Sanath-Reddy/smart-helmet-iot](https://github.com/Sanath-Reddy/smart-helmet-iot)
-<ul>
+1. ❌ Closed PR [#1](https://github.com/Sanath-Reddy/smart-helmet-iot/pull/1) in [Sanath-Reddy/smart-helmet-iot](https://github.com/Sanath-Reddy/smart-helmet-iot)
+2. 💪 Opened PR [#1](https://github.com/Sanath-Reddy/smart-helmet-iot/pull/1) in [Sanath-Reddy/smart-helmet-iot](https://github.com/Sanath-Reddy/smart-helmet-iot)
 <li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
 <li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
 <li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
