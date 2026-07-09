@@ -53,7 +53,7 @@
 # Recent Activity :zap:
 
 <!--START_SECTION:activity-->
-<!-- Generated from Local Populate Script -->
+1. 💪 Opened PR [#1](https://github.com/Sanath-Reddy/smart-helmet-iot/pull/1) in [Sanath-Reddy/smart-helmet-iot](https://github.com/Sanath-Reddy/smart-helmet-iot)
 <ul>
 <li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
 <li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
