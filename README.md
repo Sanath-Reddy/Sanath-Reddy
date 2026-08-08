@@ -35,16 +35,16 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanath-Reddy&theme=nord_dark">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanath-Reddy&theme=nord_dark" >
 <img src="https://github-profile-trophy.vercel.app/?username=Sanath-Reddy&theme=darkhub">
-<img src="https://github-readme-stats.vercel.app/api?username=Sanath-Reddy&theme=blue-green" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanath-Reddy&theme=chartreuse-dark&layout=compact" width="335">
+<img src="https://github-stats-extended.vercel.app/api?username=Sanath-Reddy&theme=blue-green" width="400">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanath-Reddy&theme=chartreuse-dark&layout=compact" width="335">
 </p>
 
 ---
 ### ⚙ Commits Streak 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanath-Reddy&theme=radical">
-<img src="https://activity-graph.herokuapp.com/graph?username=Sanath-Reddy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
+<img src="https://streak-stats.demolab.com/?user=Sanath-Reddy&theme=radical">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanath-Reddy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
 </p>
 
 
@@ -53,17 +53,6 @@
 # Recent Activity :zap:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Sanath-Reddy/smart-helmet-iot/pull/1) in [Sanath-Reddy/smart-helmet-iot](https://github.com/Sanath-Reddy/smart-helmet-iot)
-2. 💪 Opened PR [#1](https://github.com/Sanath-Reddy/smart-helmet-iot/pull/1) in [Sanath-Reddy/smart-helmet-iot](https://github.com/Sanath-Reddy/smart-helmet-iot)
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>🚀 Created branch <code>main</code> in <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
-<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Darshiljpatel/TOKEN_FACTORY">Darshiljpatel/TOKEN_FACTORY</a></li>
-</ul>
 <!--END_SECTION:activity-->
 
 ---
