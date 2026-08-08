@@ -44,7 +44,7 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Sanath-Reddy&theme=radical">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanath-Reddy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanath-Reddy&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"> -->
 </p>
 
 
