@@ -53,6 +53,13 @@
 # Recent Activity :zap:
 
 <!--START_SECTION:activity-->
+<ul>
+<li>📝 Pushed 2 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a></li>
+<li>🚀 Created branch <code>main</code> in <a href="https://github.com/Sanath-Reddy/CaptionHunt">Sanath-Reddy/CaptionHunt</a></li>
+<li>🚀 Created branch <code>main</code> in <a href="https://github.com/Sanath-Reddy/android-automator">Sanath-Reddy/android-automator</a></li>
+<li>📝 Pushed 3 commit(s) to <a href="https://github.com/Sanath-Reddy/IoT-SEE-Programs">Sanath-Reddy/IoT-SEE-Programs</a></li>
+<li>📝 Pushed 1 commit(s) to <a href="https://github.com/Sanath-Reddy/Path-finding-algos">Sanath-Reddy/Path-finding-algos</a></li>
+</ul>
 <!--END_SECTION:activity-->
 
 ---
