@@ -23,3 +23,4 @@ jobs:
         with:
           COMMIT_MSG: "Updated README with recent activity"
           MAX_LINES: 10
+          FILTER_EVENTS: IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,PushEvent,CreateEvent
