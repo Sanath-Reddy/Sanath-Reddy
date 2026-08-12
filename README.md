@@ -53,6 +53,11 @@
 # Recent Activity :zap:
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sanath-Reddy](https://github.com/Sanath-Reddy/Sanath-Reddy)<br>
+2. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sanath-Reddy](https://github.com/Sanath-Reddy/Sanath-Reddy)<br>
+3. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sanath-Reddy](https://github.com/Sanath-Reddy/Sanath-Reddy)<br>
+4. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sindy-Seizure-Predictor](https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor)<br>
+5. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sindy-Seizure-Predictor](https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
