@@ -53,11 +53,19 @@
 # Recent Activity :zap:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sanath-Reddy](https://github.com/Sanath-Reddy/Sanath-Reddy)<br>
-2. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sanath-Reddy](https://github.com/Sanath-Reddy/Sanath-Reddy)<br>
-3. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sanath-Reddy](https://github.com/Sanath-Reddy/Sanath-Reddy)<br>
-4. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sindy-Seizure-Predictor](https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor)<br>
-5. ⬆️ Pushed undefined commit(s) to [Sanath-Reddy/Sindy-Seizure-Predictor](https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor)<br>
+
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor">Sanath-Reddy/Sindy-Seizure-Predictor</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor">Sanath-Reddy/Sindy-Seizure-Predictor</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor">Sanath-Reddy/Sindy-Seizure-Predictor</a><br>
+🚀 Created branch <code>main</code> in <a href="https://github.com/Sanath-Reddy/Sindy-Seizure-Predictor">Sanath-Reddy/Sindy-Seizure-Predictor</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/Sanath-Reddy">Sanath-Reddy/Sanath-Reddy</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/CaptionHunt">Sanath-Reddy/CaptionHunt</a><br>
+📝 Pushed 0 commit(s) to <a href="https://github.com/Sanath-Reddy/aternos-killer">Sanath-Reddy/aternos-killer</a><br>
+
+
 <!--RECENT_ACTIVITY:end-->
 
 ---

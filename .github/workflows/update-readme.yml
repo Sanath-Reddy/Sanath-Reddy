@@ -14,9 +14,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@main
+      - name: Fetch activity and update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Updated README with recent activity"
-          MAX_LINES: 10
+        run: python .github/scripts/update_activity.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated README with recent activity" && git push)
