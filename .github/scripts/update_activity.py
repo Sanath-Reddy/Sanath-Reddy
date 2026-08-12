@@ -25,6 +25,9 @@ for event in events:
         break
     
     repo_name = event['repo']['name']
+    if repo_name == "Sanath-Reddy/Sanath-Reddy":
+        continue
+        
     repo_url = f"https://github.com/{repo_name}"
     repo_link = f"<a href=\"{repo_url}\">{repo_name}</a>"
     
